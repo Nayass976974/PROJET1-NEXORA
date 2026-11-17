@@ -64,7 +64,7 @@ L'objectif est de concevoir et de mettre en place une infrastructure informatiqu
 
 \- Proxmox / VirtualBox
 
-\- OPNsense ou pfSense
+\- pfSense
 
 \- Windows Server et Active Directory
 
