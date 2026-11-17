@@ -18,9 +18,9 @@ L'objectif est de concevoir et de mettre en place une infrastructure informatiqu
 
 
 
-\- Étudiant A : responsable du site de Toulouse.
+\- DAKA Naïd : responsable du site de Toulouse.
 
-\- Étudiant B : responsable du site de Marseille.
+\- EL HAJE Rawad : responsable du site de Marseille.
 
 \- Travail commun : architecture globale, dépôt Git, documentation et tests croisés.
 
